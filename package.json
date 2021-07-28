@@ -15,5 +15,8 @@
   },
   "engines": {
     "node": ">=14"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.3"
   }
 }
